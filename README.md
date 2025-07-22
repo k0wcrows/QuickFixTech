@@ -32,7 +32,7 @@ Need something fixed fast?
 - iPhone 13 + iPhone Mini (UBKey)
 - GitHub mobile + Termux (when needed)
 
-## 💬 Hire Me
+## 💬 Check Me
 - Ko-fi: https://ko-fi.com/quickerfix
 - Open a GitHub Issue: “Service Request”
 - Email: quickerfix@protonmail.com (optional)
