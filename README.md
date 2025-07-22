@@ -26,7 +26,7 @@ Instant microservice scripts and config fixes — designed and delivered 100% fr
 
 ## 💵 How to Hire Me
 Need something fixed fast?  
-- Ko-fi: [ko-fi.com/yourname](https://ko-fi.com/quickfix)
+- Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
 - GitHub issues: Open a “Service Request”
 - Email: `quickfix@protonmail.com` (optional)
 
@@ -35,7 +35,7 @@ Need something fixed fast?
 - GitHub mobile + Termux (when needed)
 
 ## 💬 Hire Me
-- Ko-fi: https://ko-fi.com/YOUR_NAME
+- Ko-fi: https://ko-fi.com/quickerfix
 - Open a GitHub Issue: “Service Request”
 - Email: quickerfix@protonmail.com (optional)
 
