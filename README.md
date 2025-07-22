@@ -1,9 +1,7 @@
-# QuickFixTech 💻💸
+# QuickerFix-mTech 💻💸🛠️
 
 Microservices for tech repairs, config fixes, and cybersecurity support.  
 Built completely from mobile devices (iPhone 13 + Mini).
-
-# QuickFixTech 💸🛠️
 
 Instant microservice scripts and config fixes — designed and delivered 100% from mobile.
 
