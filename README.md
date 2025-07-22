@@ -1,47 +1,5 @@
-# QuickerFix-mTech 💻💸🛠️
 
-Microservices for tech repairs, config fixes, and cybersecurity support.  
-Built completely from mobile devices (iPhone 13 + Mini).
-
-Instant microservice scripts and config fixes — designed and delivered 100% from mobile.
-
-## 🔧 What You’ll Find:
-- Shell, Python, Ruby & Lua scripts to fix common issues
-- Cybersecurity & hardening tools
-- Configs for Linux network stack (DNS, DHCPv6, WireGuard)
-- All built and tested mobile-first (iPhone)
-
-## 📦 Service Examples:
-- DNSMasq + DHCPv6 auto-debug
-- WireGuard tunnel checks
-- Detect APTs or network spoofing
-- Btrfs & Secure Boot config (Linux Os)
-- Privacy-focused mobile optimizations (Android/iPhone)
-
-- ## 🔧 Scripts
-- Shell, Python, Ruby tools for diagnostics and repair
-- Configs for DNSMasq, WireGuard, DNSCrypt, etc.
-
-## 💵 How to Hire Me
-Need something fixed fast?  
-- Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
-- GitHub issues: Open a “Service Request”
-- Email: `quickfix@protonmail.com` (optional)
-
-## 📱 Built From:
-- iPhone 13 + iPhone Mini (UBKey)
-- GitHub mobile + Termux (when needed)
-
-## 💬 Check Me
-- Ko-fi: https://ko-fi.com/quickerfix
-- Open a GitHub Issue: “Service Request”
-- Email: quickerfix@protonmail.com (optional)
-
-
-
-
-
-# QuickerFix-mTech 💸⚙️
+# QuickerFix-mTech 💸⚙️💻💸🛠️
 
 A mobile-powered tech microservice offering instant script fixes, configuration help, and cybersecurity triage — **built and managed entirely from an iPhone**.
 
@@ -51,7 +9,7 @@ A mobile-powered tech microservice offering instant script fixes, configuration 
 
 **QuickerFix-mTech** is a personal toolkit and freelance-ready repository designed for:
 
-- 🔧 Instant debugging (DNS, WireGuard, VPN, DHCP)
+- 🔧 Instant debugging (DNS, WireGuard, VPN, DHCPv6)
 - 🛡️ Cybersecurity checks (APT detection, spoof scans)
 - 🧰 Config repair (fstab, systemd, DNSCrypt, etc.)
 - 📲 Built, tested, and deployed using only iPhone devices
@@ -79,11 +37,11 @@ Everything in this repo is created with:
 
 ---
 
-## 💵 Hire Me / Instant Fix
+## 💵 Check Me / Instant Fix
 
 - 💬 Open a GitHub **Issue** and tag it `fix-request`
-- ☕ [Donate on Ko-fi](https://ko-fi.com/YOUR_NAME_HERE)
-- 📧 Optional: `quickfix@protonmail.com`
+- ☕ - Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
+- 📧 Optional: `quickerfix@protonmail.com`
 
 ---
 
@@ -98,12 +56,6 @@ This repo proves that cybersecurity triage and network repair can be **100% mobi
 ## 🔗 License
 
 [MIT License](LICENSE)
-
-
-
-
-
-
 
 ---
 This repo is run and updated fully from a mobile environment.
