@@ -41,7 +41,7 @@ Everything in this repo is created with:
 
 - 💬 Open a GitHub **Issue** and tag it `fix-request`
 - ☕ - Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
-- 📧 Optional: `quickerfix@protonmail.com`
+- 📧 Optional:- [🧠 Chat with me via GitHub issues](https://github.com/k0wcrows/QuickerFix-mTech/issues)
 
 ---
 
