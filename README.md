@@ -42,6 +42,7 @@ Everything in this repo is created with:
 - ☕ - Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
 - 📧 Optional:- [🧠 Chat with me via GitHub issues](https://github.com/k0wcrows/QuickerFix-mTech/issues)
 - 💬 Open a GitHub **Issue** and tag it `fix-request` after we've communicated
+- You can also suggest an idea or request a fix!
 
 ---
 
@@ -49,7 +50,7 @@ Everything in this repo is created with:
 
 > Tech support should be fast, accessible, and secure — even from a pocket device.
 
-This repo proves that cybersecurity triage and network repair can be **100% mobile-native**.
+This repo proves that cybersecurity triage and network repair can be **100% mobile-native**. (after hours)
 
 ---
 
