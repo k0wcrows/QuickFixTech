@@ -39,9 +39,9 @@ Everything in this repo is created with:
 
 ## 💵 Check Me / Instant Fix
 
-- 💬 Open a GitHub **Issue** and tag it `fix-request`
 - ☕ - Ko-fi: [ko-fi.com/quickerfix](https://ko-fi.com/quickerfix)
 - 📧 Optional:- [🧠 Chat with me via GitHub issues](https://github.com/k0wcrows/QuickerFix-mTech/issues)
+- 💬 Open a GitHub **Issue** and tag it `fix-request`
 
 ---
 
