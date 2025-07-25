@@ -5,11 +5,11 @@ A mobile-powered tech microservice offering instant script fixes, configuration 
 
 ---
 
-## 🧩 What This Is
+## 🧩 What This Is (an elder hubby)
 
 **QuickerFix-mTech** is a personal toolkit and freelance-ready repository designed for:
 
-- 🔧 Instant debugging (DNS, WireGuard, VPN, DHCPv6)
+- 🔧 Instant debugging (DNS, Wins, WireGuard Services, VPN, DHCPv6)
 - 🛡️ Cybersecurity checks (APT detection, spoof scans)
 - 🧰 Config repair (fstab, systemd, DNSCrypt, etc.)
 - 📲 Built, tested, and deployed using only iPhone devices
